@@ -1,4 +1,4 @@
-# Vue.js-Todo
+# Django Blog
 
 
 ## Images about Project
